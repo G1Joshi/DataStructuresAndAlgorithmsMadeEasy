@@ -1,2 +1,1 @@
-# DataStructuresAndAlgorithmsMadeEasy
-Data Structures and Algorithms
+# Data Structures And Algorithms Made Easy
